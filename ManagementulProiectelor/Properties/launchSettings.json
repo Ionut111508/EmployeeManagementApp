@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ManagementulProiectelor": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    },
+    "newProfile1": {
+      "commandName": "Executable",
+      "environmentVariables": {
+        "a": "Value"
+      }
+    }
+  }
+}
